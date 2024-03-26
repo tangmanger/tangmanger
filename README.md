@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 ###  :snail:Github 状态:
 <a href="https://count.getloli.com"><img align="center" src="https://count.getloli.com/get/@tangmanger?theme=rule34"></a><br>
-<img   src = "https://github-readme-stats.vercel.app/api?username=tangmanger&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" >
+<img   src = "https://github-readme-stats.vercel.app/api?username=tangmanger&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" > <img width="210px" height="210px"  src = "https://api.dicgo.com/uploads/wx.jpg">
 <!--<img width="390px"  src = "http://github-readme-streak-stats.herokuapp.com?user=tangmanger&theme=dracula">-->
 
 <!--### 🌈 常用语言-->
@@ -26,5 +26,5 @@ Here are some ideas to get you started:
 
  - :email: tangmanger@163.com
 
-### 📫公众号
-![公众号](https://api.dicgo.com/uploads/wx.jpg)
+<!--### 📫公众号
+![公众号](https://api.dicgo.com/uploads/wx.jpg)-->
